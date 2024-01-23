@@ -1,0 +1,174 @@
+{
+    "data": [
+        {
+            "ourQualities": [
+                {
+                    "id": 1,
+                    "image": "./quality_food.svg",
+                    "title": "QUALITY FOOD",
+                    "description": "Indulge in culinary excellence at LACA Madras, where quality meets flavor. Our chefs create dishes with fresh, locally-sourced ingredients for a delightful dining experience. From bold flavors to comforting classics, our diverse menu caters to every palate. Join us for a tradition of taste that goes beyond standards at LACA Madras."
+                },
+                {
+                    "id": 2,
+                    "image": "./super_taste.svg",
+                    "title": "SUPER TASTE",
+                    "description": "Savor the extraordinary at LACA Madras, where every bite is a journey into superlative taste. Our culinary artisans craft dishes that transcend the ordinary, ensuring a dining experience like no other. From bold and innovative flavors to time-honored classics, our menu is a celebration of gastronomic excellence. Immerse yourself in the extraordinary at LACA Madras."
+                },
+                {
+                    "id": 3,
+                    "image": "./fast_delivery.svg",
+                    "title": "FAST DELIVERY",
+                    "description": "Experience the speed of satisfaction at LACA Madras with our lightning-fast delivery service. We prioritize efficiency without compromising on the quality of our delectable dishes. From kitchen to doorstep, your order arrives swiftly, ensuring your cravings are met in record time. Elevate your dining experience with prompt and reliable delivery at LACA Madras."
+                }
+            ],
+            "dishes": [
+                {
+                    "id": 1,
+                    "image": "./dinner1.jpeg",
+                    "title": "ROASTED LAMB RUMP",
+                    "category": "Dinner"
+                },
+                {
+                    "id": 2,
+                    "image": "./dinner2.png",
+                    "title": "CITRUS CURED SALMON",
+                    "category": "Dinner"
+                },
+                {
+                    "id": 3,
+                    "image": "./breakfast1.png",
+                    "title": "PAN SEARED SEA BASS",
+                    "category": "Breakfast"
+                },
+                {
+                    "id": 4,
+                    "image": "./dinner3.png",
+                    "title": "STUFFED STRAWBERRY",
+                    "category": "Dinner"
+                },
+                {
+                    "id": 5,
+                    "image": "./lunch1.png",
+                    "title": "BEEF BURGER MEAL",
+                    "category": "Lunch"
+                },
+                {
+                    "id": 6,
+                    "image": "./dinner4.png",
+                    "title": "MUSSELS SOUP",
+                    "category": "Dinner"
+                },
+                {
+                    "id": 7,
+                    "image": "./dinner5.png",
+                    "title": "ITALIAN SPAGHETTI",
+                    "category": "Dinner"
+                },
+                {
+                    "id": 8,
+                    "image": "./dinner6.png",
+                    "title": "GRILLED FISH",
+                    "category": "Dinner"
+                }
+            ],
+            "team": [
+                {
+                    "id": 1,
+                    "image": "./team_member_1.png",
+                    "name": "JOHNATHAN TYLER",
+                    "designation": "Founder & Head Chef"
+                },
+                {
+                    "id": 2,
+                    "image": "./team_member_2.png",
+                    "name": "WADE WARREN",
+                    "designation": "Sous Chef"
+                },
+                {
+                    "id": 3,
+                    "image": "./team_member_3.png",
+                    "name": "JHON DOE",
+                    "designation": "Fast Food Chef"
+                },
+                {
+                    "id": 4,
+                    "image": "./team_member_4.png",
+                    "name": "ALEX COAL",
+                    "designation": "Senior Chef"
+                }
+            ],
+            "testimonials": [
+                {
+                    "id": 1,
+                    "image": "./review1.png",
+                    "description": "Exceptional flavors, impeccable service! LACA Madras exceeded my expectations. The diverse menu and cozy ambiance make it a perfect dining spot. A culinary gem in every sense!",
+                    "rating": 4,
+                    "userName": "Jane Cooper"
+                },
+                {
+                    "id": 2,
+                    "image": "./review2.png",
+                    "description": "Had an amazing celebration at LACA Madras. The attention to detail in presentation and the explosion of flavors in each dish made it a memorable dining experience. Can't wait to come back!",
+                    "rating": 4.5,
+                    "userName": "Esther Howard"
+                },
+                {
+                    "id": 3,
+                    "image": "./review3.png",
+                    "description": "Impressed by the swift delivery and mouthwatering dishes from LACA Madras. A delightful experience, from order placement to the first bite. Highly recommended",
+                    "rating": 5,
+                    "userName": "Guy Hawkins"
+                }
+            ],
+            "who_we_are": [
+                {
+                    "id": 1,
+                    "number": "12",
+                    "title": "Restaurants"
+                },
+                {
+                    "id": 2,
+                    "number": "25",
+                    "title": "Chef In Kitchen"
+                },
+                {
+                    "id": 3,
+                    "number": "12",
+                    "title": "Years Of Experience"
+                },
+                {
+                    "id": 4,
+                    "number": "150+",
+                    "title": "Food Dishes"
+                }
+            ],
+            "navbarLinks": [
+                {
+                    "id": 1,
+                    "title": "Home",
+                    "link": "heroSection"
+                },
+                {
+                    "id": 2,
+                    "title": "About Us",
+                    "link": "about"
+                },
+                {
+                    "id": 3,
+                    "title": "Services",
+                    "link": "qualities"
+                },
+                {
+                    "id": 4,
+                    "title": "Team",
+                    "link": "team"
+                },
+                {
+                    "id": 5,
+                    "title": "Reservation",
+                    "link": "reservation"
+                }
+            ]
+        }
+    ]
+}
